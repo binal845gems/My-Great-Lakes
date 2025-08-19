@@ -25,7 +25,7 @@ My Great Lakes is a comprehensive web application dedicated to exploring the fiv
 **Binal845gems**  
 A passionate full-stack developer and environmental advocate with expertise in React, JavaScript, and modern web development. Known for writing clean, efficient code and encouraging open collaboration. Committed to creating accessible and impactful software solutions.  
 - Email: binal845gems@outlook.com  
-- Website: [My Great Lakes] (https://www.mygreatlakes.it.com)
+- Website: [My Great Lakes](https://www.mygreatlakes.it.com)
 
 ## Getting Started
 

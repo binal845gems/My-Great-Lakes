@@ -1,0 +1,12 @@
+.expense-list {
+  margin: 20px 0;
+  border-top: 2px solid #0077b6;
+  padding-top: 10px;
+}
+
+.expense-item {
+  padding: 10px 0;
+  border-bottom: 1px solid #ccc;
+  display: flex;
+  justify-content: space-between;
+}
